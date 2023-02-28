@@ -42,5 +42,43 @@
       "name": "BigGuy",
       "id": 7
     }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 11111,
+      "address": "Johannesburg"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 11111,
+      "address": "Johannesburg"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 11111,
+      "address": "Delhi"
+    },
+    {
+      "name": "RTG",
+      "contact": 11,
+      "address": "Waverley",
+      "id": 4
+    },
+    {
+      "name": "Next Door",
+      "address": "Waverley",
+      "contact": "012",
+      "id": 5
+    },
+    {
+      "name": "Segals",
+      "address": "Glennies",
+      "contact": "123456",
+      "id": 6
+    }
   ]
 }

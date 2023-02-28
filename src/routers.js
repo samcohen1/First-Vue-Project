@@ -29,7 +29,7 @@ const routes = [
     {
         name:'Update',
         component:Update,
-        path:'/Update'
+        path:'/Update/:id'
     }
 ];
 const router = createRouter({

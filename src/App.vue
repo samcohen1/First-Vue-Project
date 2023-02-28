@@ -29,7 +29,7 @@ body{
   width: 150px;
 }
 
-#entries input {
+#entries input, .add input{
   width: 300px;
   height: 40px;
   padding-left: 20px;
@@ -41,7 +41,7 @@ body{
   border-radius: 10px;
 }
 
-#enter {
+#enter, .addButton{
   width: 300px;
   height: 40px;
   border: 3px solid skyblue;
