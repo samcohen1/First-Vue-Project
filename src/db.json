@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "mira.chazen@gmail.com",
+      "name": "Mira",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "jeff@bigMan.co.za",
+      "password": "11111",
+      "name": "Jeff",
+      "id": 2
+    },
+    {
+      "email": "barnes@gmail.com",
+      "password": "12314",
+      "name": "Sarah",
+      "id": 3
+    },
+    {
+      "email": "morris@synthesis.co.za",
+      "password": "BigGuy",
+      "name": "Morris",
+      "id": 4
+    },
+    {
+      "email": "Johnson@sabje.co.za",
+      "password": "asdf",
+      "name": "Johnson",
+      "id": 5
+    },
+    {
+      "email": "Neil@synthesis.co.za",
+      "password": "Neil",
+      "name": "Neil",
+      "id": 6
+    },
+    {
+      "email": "bg@synthesis.co.za",
+      "password": "bg",
+      "name": "BigGuy",
+      "id": 7
+    }
+  ]
+}
